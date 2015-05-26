@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="defaultLeftText">LeftText</string>
+    <string name="defaultRightText">RightText</string>
+    <string name="labelRed">Red</string>
+    <string name="labelGreen">Green</string>
 </resources>
