@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="lt_gray">#9c984427</drawable>
+    <drawable name="gray">#ffaa522f</drawable>
+    <drawable name="dk_gray">#4e000000</drawable>
+    <drawable name="red">#fff11919</drawable>
+    <drawable name="green">#ff21aa15</drawable>
+</resources>
