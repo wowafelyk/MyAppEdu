@@ -6,6 +6,9 @@
 /build
 *.iml
 
+/p0141_menuadv/p0141_menuadv.iml
+/app/*.iml
+
 
 
 
@@ -41,3 +44,7 @@ proguard/
 
 /p0141_menuadv/p0141_menuadv.iml
 /app/*.iml
+/p0141_menuadv/p0141_menuadv.iml
+/p0141_menuadv/p0141_menuadv.iml
+/p0141_menuadv/p0141_menuadv.iml
+/app/app.iml
