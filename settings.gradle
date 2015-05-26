@@ -1,1 +1,1 @@
-include ':app', ':p0141_menuadv'
+include ':app', ':p0141_menuadv', ':fortest'

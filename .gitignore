@@ -4,6 +4,10 @@
 /.idea/libraries
 .DS_Store
 /build
+*.iml
+
+
+
 
 ### Android template
 # Built application files
@@ -35,3 +39,5 @@ proguard/
 *.log
 
 
+/p0141_menuadv/p0141_menuadv.iml
+/app/*.iml
