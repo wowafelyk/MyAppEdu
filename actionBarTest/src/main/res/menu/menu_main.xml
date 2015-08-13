@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="always" />
+    <item android:id="@+id/serch"
+        android:title="serch"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="always"/>
+    <item android:id="@+id/sun"
+        android:title="sun"
+        android:icon="@drawable/ic_action_image_wb_sunny"
+        android:showAsAction="ifRoom"/>
+
+</menu>

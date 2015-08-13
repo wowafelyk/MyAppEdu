@@ -10,9 +10,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actionBarTest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/fortest" />
             <option value="$PROJECT_DIR$/p0141_menuadv" />
+            <option value="$PROJECT_DIR$/p01_Loader" />
+            <option value="$PROJECT_DIR$/p01_canvas_01" />
             <option value="$PROJECT_DIR$/seekbarsample" />
           </set>
         </option>

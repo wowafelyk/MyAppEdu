@@ -1,1 +1,1 @@
-include ':app', ':fortest', ':p0141_menuadv', ':seekbarsample'
+include ':app', ':fortest', ':p0141_menuadv', ':seekbarsample', ':p01_canvas_01', ':p01_Loader', ':actionBarTest'

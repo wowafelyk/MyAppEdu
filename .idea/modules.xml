@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAppEdu.iml" filepath="$PROJECT_DIR$/MyAppEdu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/actionBarTest.iml" filepath="$PROJECT_DIR$/myapplication/actionBarTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fortest/fortest.iml" filepath="$PROJECT_DIR$/fortest/fortest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fortest/fortest.iml" filepath="$PROJECT_DIR$/fortest/fortest.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" filepath="$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p01_Loader/p01_Loader.iml" filepath="$PROJECT_DIR$/p01_Loader/p01_Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p01_canvas_01/p01_canvas_01.iml" filepath="$PROJECT_DIR$/p01_canvas_01/p01_canvas_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/seekbarsample/seekbarsample.iml" filepath="$PROJECT_DIR$/seekbarsample/seekbarsample.iml" />
     </modules>
   </component>
